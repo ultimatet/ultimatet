@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Trung Dang (Enzo)
 
-<!--
-**ultimatet/ultimatet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Bachelor of Information Technology @ La Trobe University 
+### 💻 Aspiring Full-Stack Developer | 🌐 Building practical, user-focused solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a passionate developer with a strong foundation in web development, backend systems, and database management. I love building tools and applications that solve real-world problems — especially ones that help people learn and grow. Currently, I'm working on a **Death Literacy Platform**, a project that combines tech with social impact.
+
+- 🌱 Currently learning: **Advanced React**, **API integration and design**,**C++**
+- 🛒 Also experienced in customer service and logistics 
+- 📍 Based in Melbourne, Australia 🇦🇺
+
+---
+
+## 🧰 Tools & Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+
+
+---
+
+## 📌 Projects
+
+### 🕊️ [Death Literacy Platform](https://github.com/ultimatet/funeral-quiz)  
+A full-stack web app that helps individuals assess and improve their knowledge around death and dying, including personalized reports and researcher insights.
+
+### 📁 [File Manager App](https://github.com/ultimatet/file_manager)
+A full-stack web app for managing files with secure auth, categorized storage, and scalable uploads via Firebase.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultimatet&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatet&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+- 🔗 LinkedIn: [https://www.linkedin.com/in/trung-dang-a2932b192/]
+- 💼 Portfolio: [https://ultimatet.github.io]
+- 📬 Email: [trungdang288@gmail.com]
+
+Thanks for stopping by! 😊
