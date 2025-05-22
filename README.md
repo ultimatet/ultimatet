@@ -9,7 +9,7 @@
 
 I'm a passionate developer with a strong foundation in web development, backend systems, and database management. I love building tools and applications that solve real-world problems — especially ones that help people learn and grow. Currently, I'm working on a **Death Literacy Platform**, a project that combines tech with social impact.
 
-- 🌱 Currently learning: **Advanced React**, **API integration and design**,**C++**
+- 🌱 Currently learning: **Advanced React**, **API integration and design**, **C++**
 - 🛒 Also experienced in customer service and logistics 
 - 📍 Based in Melbourne, Australia 🇦🇺
 
