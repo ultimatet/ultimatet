@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trung Dang (Enzo)
+# Hi, I'm Trung Dang (Enzo)
 
 ### 🎓 Bachelor of Information Technology @ La Trobe University 
 ### 💻 Aspiring Full-Stack Developer | 🌐 Building practical, user-focused solutions
@@ -9,7 +9,8 @@
 
 I'm a passionate developer with a strong foundation in web development, backend systems, and database management. I love building tools and applications that solve real-world problems — especially ones that help people learn and grow. Currently, I'm working on a **Death Literacy Platform**, a project that combines tech with social impact.
 
-- 🌱 Currently learning: **Advanced React**, **API integration and design**, **C++**
+- 🌱 Currently learning: **Advanced React**, **API integration and design**, **Leetcode**
+- 💡 Working through Leetcode 75 study plan with JavaScript. Documenting my approach [here](https://docs.google.com/document/d/1jG3A4tTxt32Zn3JOSwPyUofnSAFdGOr2ezMrtp1VbNE/edit?usp=sharing).
 - 🛒 Also experienced in customer service 
 - 📍 Based in Melbourne, Australia 🇦🇺
 
@@ -22,7 +23,6 @@ I'm a passionate developer with a strong foundation in web development, backend 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
@@ -41,9 +41,8 @@ A full-stack web app for managing files with secure auth, categorized storage, a
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ultimatet&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ultimatet&layout=compact&theme=radical)
 
 ---
