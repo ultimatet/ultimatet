@@ -1,7 +1,7 @@
 # Hi, I'm Trung Dang (Enzo)
 
 ### 🎓 Bachelor of Information Technology @ La Trobe University 
-### 💻 Aspiring Full-Stack Developer | 🌐 Building practical, user-focused solutions
+###  Aspiring Full-Stack Developer |  Building practical, user-focused solutions
 
 ---
 
@@ -35,6 +35,10 @@ I'm a passionate developer with a strong foundation in web development, backend 
 
 ### 🕊️ [Death Literacy Platform](https://github.com/ultimatet/funeral-quiz)  
 A full-stack web app that helps individuals assess and improve their knowledge around death and dying, including personalized reports and researcher insights.
+
+#### 🕊️ [Deployed version](https://github.com/ultimatet/help-app)
+Death Literacy platform that is up on production site
+
 
 ### 📁 [File Manager App](https://github.com/ultimatet/file_manager)
 A full-stack web app for managing files with secure auth, categorized storage, and scalable uploads via Firebase.
